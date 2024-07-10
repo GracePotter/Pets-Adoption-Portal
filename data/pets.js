@@ -1,4 +1,4 @@
-export const pets = [
+[
     {"id": 1, "name": "Fido", "category": "Dog", "subcategory": "Labrador", "owner": "Robert Johnson", "price": 500},
     {"id": 2, "name": "Mimi", "category": "Cat", "subcategory": "Persian", "owner": "Robert Johnson", "price": 300},
     {"id": 3, "name": "Buddy", "category": "Dog", "subcategory": "Golden Retriever", "owner": "Michael Brown", "price": 600},
